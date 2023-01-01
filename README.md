@@ -6,9 +6,7 @@ to have access to great schools and there is much debate about what makes for gr
 more children have access to them.
 
 By taking a deep dive into the datasets curated by the city of New York, we may be able to uncover interesting trends of schools that 
-are getting great results. We will use a variety of mathematical and visual strategies to illustrate patterns in the data. Our analysis
-
-may confirm popular beliefs about the state of our schools and they may provide new insights that raise more questions to be explored.
+are getting great results. We will use a variety of mathematical and visual strategies to illustrate patterns in the data. Our analysis may confirm popular beliefs about the state of our schools and they may provide new insights that raise more questions to be explored.
 
 ## Questions to explore
 
